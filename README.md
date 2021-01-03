@@ -6,7 +6,7 @@ Importar los datos desde archivo "productos.csv", los campos PRECIOVENTA, COSTOF
 # Ejecutar backend
 Iniciar proyecto nodejs, ejecutando el codigo npm run dev
 
-#Ejecutar Front
+# Ejecutar Front
 Iniciar proyecto Angular en ruta/front ejecutar ng serve
 
 
